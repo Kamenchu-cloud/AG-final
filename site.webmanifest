@@ -1,0 +1,12 @@
+{
+  "name": "AG Suitcases Collection",
+  "short_name": "AG Suitcases",
+  "start_url": "/ag-suitcases3/",
+  "display": "standalone",
+  "background_color": "#F6F4EF",
+  "theme_color": "#3A6259",
+  "icons": [
+    {"src":"images/ag-mark.png","sizes":"192x192","type":"image/png"},
+    {"src":"images/ag-mark.png","sizes":"512x512","type":"image/png"}
+  ]
+}

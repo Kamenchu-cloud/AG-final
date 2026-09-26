@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamenchu-cloud.github.io/ag-suitcases3/sitemap.xml
